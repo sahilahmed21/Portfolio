@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
@@ -44,6 +45,8 @@ Built with React.js for handling the user interface, Three.js for rendering 3D e
 If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
 <a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+=======
+>>>>>>> fff7dc0d013601136503f3ad19a1165e79d3cfc2
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -122,6 +125,7 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+<<<<<<< HEAD
 <!-- 
 ## <a name="snippets">🕸️ Snippets</a>
 
@@ -894,3 +898,5 @@ And if you're hungry for more than just a course and want to understand how we l
 </a>
 
 # -->
+=======
+>>>>>>> fff7dc0d013601136503f3ad19a1165e79d3cfc2
